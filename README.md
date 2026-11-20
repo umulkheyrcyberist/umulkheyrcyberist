@@ -1,16 +1,52 @@
-## Hi there 👋
+# Umulkheyr Ahmed
 
-<!--
-**umulkheyrcyberist/umulkheyrcyberist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity | AI Agent Development | Accounting Technology
 
-Here are some ideas to get you started:
+I am a technology enthusiast focused on cybersecurity, software engineering, and intelligent automation. I am passionate about developing secure systems, building AI-powered solutions, and creating practical software for business and accounting operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Cybersecurity & Information Security
+- Application Security
+- Cloud Security
+- AI Agent Development & Automation
+- Python Development
+- Accounting Software & ERP Systems
+- Financial Technology
+
+## Technologies & Tools
+
+**Programming & Development**
+- Python
+- JavaScript
+- FastAPI
+- Next.js
+
+**Cybersecurity & Infrastructure**
+- Linux
+- Kali Linux
+- Computer Networking
+- Security Fundamentals
+
+**Databases**
+- SQL
+- PostgreSQL
+
+**Accounting & Business Systems**
+- Odoo
+- QuickBooks
+- Microsoft Excel
+
+**Development Tools**
+- Git & GitHub
+- Visual Studio Code
+
+## Current Focus
+- Building practical cybersecurity projects.
+- Developing AI-powered accounting agents.
+- Strengthening Python and backend development skills.
+- Exploring Application Security and Cloud Security.
+- Building integrated accounting and ERP solutions.
+
+---
+
+*Learning, building, and continuously improving.*
